@@ -1,6 +1,9 @@
 body{
     text-align: center;
+    background-color:#C1F4C5;
 }
+
+
 
 #jeu{
     display: grid;
